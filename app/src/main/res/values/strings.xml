@@ -2,5 +2,10 @@
     <string name="app_name">AlkeWallet</string>
     <string name="alke_wallet">AlkeWallet</string>
     <string name="logo_image">logo image</string>
+    <string name="text_login">El lugar mas seguro para tu dinero</string>
+    <string name="text_button_login">Crear cuenta nueva</string>
+    <string name="button_login">Button</string>
+    <string name="user_access">Ya tiene cuenta?</string>
+
 
 </resources>
