@@ -12,4 +12,10 @@
         <item name="cornerSizeBottomRight">6dp</item>
         <item name="cornerSizeBottomLeft">6dp</item>
     </style>
+    <style name="radiustranferimput">
+        <item name="cornerSizeTopRight">20dp</item>
+        <item name="cornerSizeTopLeft">10dp</item>
+        <item name="cornerSizeBottomRight">10dp</item>
+        <item name="cornerSizeBottomLeft">10dp</item>
+    </style>
 </resources>

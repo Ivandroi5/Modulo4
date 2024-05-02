@@ -13,6 +13,13 @@
         android:theme="@style/Theme.AlkeWallet"
         tools:targetApi="31">
         <activity
+            android:name=".Send_Money_Activity"
+            android:exported="false"
+            android:theme="@style/Theme.AlkeWallet" />
+        <activity
+            android:name=".Request_Money_Activity"
+            android:exported="false" />
+        <activity
             android:name=".SignupPage"
             android:exported="false" />
         <activity

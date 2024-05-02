@@ -126,13 +126,13 @@
 
     <Button
         android:id="@+id/buttonrecieve"
-        android:layout_width="165dp"
+        android:layout_width="167dp"
         android:layout_height="49dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="15dp"
         android:backgroundTint="@color/celeste_wallet"
         android:fontFamily="@font/jua_regular"
-        android:text="@string/recibir_dinero"
+        android:text="@string/ingresar_dinero"
         android:textColor="@color/white"
         android:drawableLeft="@drawable/path"
         app:layout_constraintEnd_toEndOf="parent"
@@ -180,6 +180,18 @@
         android:textSize="12sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView"
+        android:name="com.example.alkewallet.FragmentTransaction"
+        android:layout_width="330dp"
+        android:layout_height="315dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLastTrans"
+        app:layout_constraintVertical_bias="0.0" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
