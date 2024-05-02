@@ -3,4 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="celeste_wallet">#63B8FC</color>
+    <color name="blackopacity">#411A1A1A</color>
+    <color name="celsteoscuro">#1A87DD</color>
+    <color name="green">#72DB31</color>
+
+
 </resources>

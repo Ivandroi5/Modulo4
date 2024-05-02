@@ -6,6 +6,35 @@
     <string name="text_button_login">Crear cuenta nueva</string>
     <string name="button_login">Button</string>
     <string name="user_access">Ya tiene cuenta?</string>
+    <string name="Login_access">Loguea y empieza a transferir!</string>
+    <string name="email">Email</string>
+    <string name="ingresar_tu_email">Ingresar tu email</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresa_tu_contrasena">Ingresa tu contraseña</string>
+    <string name="olvidaste_tu_contrase_a">Olvidaste tu contraseña?</string>
+    <string name="login">Login</string>
+    <string name="crear_nueva_cuenta">Crear una nueva cuenta</string>
+    <string name="registrarse_y_empezar_a_transferir">Registrarse y empezar a transferir</string>
+    <string name="nombre">Nombre</string>
+    <string name="ingresar_nombre">Ingresar nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="ingresar_apellido">Ingresar apellido</string>
+    <string name="reingresar_contrase_a">Reingresar contraseña</string>
+    <string name="reingresar_contrasena">Reingresar contraseña</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="ya_tienes_una_cuenta">Ya tienes una cuenta?</string>
+    <string name="pantalla_home">pantalla home</string>
+    <string name="inicio">Inicio</string>
+    <string name="hola_amanda">Hola, Amanda!</string>
+    <string name="balance_total">Balance Total</string>
+    <string name="dinero_total">$ 124.57</string>
+    <string name="avatar_profile">avatar profile</string>
+    <string name="enviar_dinero">Enviar Dinero</string>
+    <string name="recibir_dinero">Recibir Dinero</string>
+    <string name="ultimas_transacciones">Ultimas transacciones</string>
+    <string name="no_hay_transacciones_registradas">No hay transacciones registradas!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

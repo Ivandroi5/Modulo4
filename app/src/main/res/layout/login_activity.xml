@@ -80,21 +80,19 @@
         android:layout_height="21dp"
 
         android:layout_marginStart="136dp"
-        android:layout_marginTop="24dp"
+        android:layout_marginBottom="32dp"
+
+
         android:fontFamily="@font/jua_regular"
         android:text="@string/user_access"
-
-
         android:textAlignment="center"
+
+
         android:textColor="@color/celeste_wallet"
         android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
 
-
-        app:layout_constraintBottom_toBottomOf="24dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button"
-
-        />
+        app:layout_constraintStart_toStartOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
