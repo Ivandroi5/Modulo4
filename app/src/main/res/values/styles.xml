@@ -13,9 +13,15 @@
         <item name="cornerSizeBottomLeft">6dp</item>
     </style>
     <style name="radiustranferimput">
-        <item name="cornerSizeTopRight">20dp</item>
+        <item name="cornerSizeTopRight">10dp</item>
         <item name="cornerSizeTopLeft">10dp</item>
         <item name="cornerSizeBottomRight">10dp</item>
         <item name="cornerSizeBottomLeft">10dp</item>
+    </style>
+    <style name="radiusOval">
+        <item name="cornerSizeTopRight">27dp</item>
+        <item name="cornerSizeTopLeft">27dp</item>
+        <item name="cornerSizeBottomRight">27dp</item>
+        <item name="cornerSizeBottomLeft">27dp</item>
     </style>
 </resources>
